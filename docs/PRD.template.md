@@ -38,6 +38,12 @@ review_lenses: [ux]
 - [ ] 
 - [ ] 
 
+## 5.1) AFO Workflow artifacts (optional, recommended)
+- [ ] `research.md` (deep read report)
+- [ ] `plan.md` (annotated plan)
+- [ ] `todo.md` (progress tracker)
+  - See: `docs/workflow/AFO_WORKFLOW.md`
+
 ## 6) API / Data contract (if any)
 - 
 
