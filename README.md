@@ -1,4 +1,4 @@
-# Agent-First Office (Docs-as-Code)
+# Agent-First Office
 
 Reduce review/approval bottlenecks in knowledge work with **agentic document reviews** and **codified organizational skills**.
 
