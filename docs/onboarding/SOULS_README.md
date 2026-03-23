@@ -14,3 +14,5 @@ A `SOUL.md` defines the persona, rules, outputs, and boundaries for an agent.
 - `souls/SOUL.template.md`
 - `souls/PM.SOUL.template.md`
 - `souls/UX.SOUL.template.md`
+- `souls/QA.SOUL.template.md`
+- `souls/DEV.SOUL.template.md`
