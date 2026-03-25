@@ -36,6 +36,13 @@ For each work item, create a folder under `docs/work/` (or a PR branch folder) c
 ### Implementation
 > Implement it all. As you complete tasks/phases, mark them as completed in `todo.md` (and/or plan). Do not stop until all tasks are completed. Continuously run typecheck/tests. Keep changes minimal and clean.
 
+## Cost control rules (practical)
+- Trigger-first reviews (don’t auto-run on every change)
+- Scope-limited deep reads (specify folders/files)
+- Diff-first context (start from PR diff)
+- Single-agent default; multi-agent is optional
+- Policies sync by release/version
+
 ## Why this matters for AFO
 - AFO’s core promise is reducing review/approval bottlenecks.
 - The plan/todo artifacts become the review surface for both humans and agents.
